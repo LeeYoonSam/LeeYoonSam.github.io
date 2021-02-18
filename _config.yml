@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Lee Yoon Sam
+email: yoonsam86@gmail.com
+author: Lee Yoon Sam
+description: "제가 알고있는 것을 기록하는 공간입니다."
+baseurl: "/LeeYoonSam.github.io"
+url: "http://LeeYoonSam.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
