@@ -6,6 +6,7 @@ permalink: /about/
 
 ## 간단 프로필
 <img src="/images/leeyoonsam.jpg" alt="drawing" style="width:200px;"/>
+
 * 이윤삼(Lee Yoon Sam)
 * Android Developer
 * [Naver Blog](https://blog.naver.com/lys1900)
