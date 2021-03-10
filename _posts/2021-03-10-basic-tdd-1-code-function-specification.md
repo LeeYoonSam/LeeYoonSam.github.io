@@ -34,6 +34,8 @@ categories: tdd
 ## 참고
 [Code 1-1](https://github.com/LeeYoonSam/InitiateTDDHandsOn/tree/main/Variance)
 
+[brew 사용해서 dotnet-sdk 설치](https://formulae.brew.sh/cask/dotnet-sdk)
+
 [패스트 캠퍼스 - The RED: 이규원의 현실 세상의 TDD: 안정감을 주는 코드 작성 방법.](https://www.fastcampus.co.kr/dev_red_ygw)
 
 [TDD HandsOn](https://github.com/gyuwon/TDDHandsOn)
