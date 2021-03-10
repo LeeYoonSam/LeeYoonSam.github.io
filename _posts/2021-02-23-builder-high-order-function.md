@@ -4,8 +4,6 @@ title:  "Kotlin 빌더 패턴 고차함수로 전달받아서 간편하게 만�
 categories: kotlin
 ---
 
-# Kotlin 빌더 패턴 고차함수로 전달받아서 간편하게 만들기
-
 ### User 클래스
 {% highlight kotlin %}
 data class User(

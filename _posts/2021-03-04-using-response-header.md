@@ -4,8 +4,6 @@ title:  "Response Header 에서 값을 가져오기 with Retrofit, MockWebServer
 categories: kotlin
 ---
 
-# Response Header 에서 값을 가져오기 with Retrofit, MockWebServer
-
 Response 로 받는 body 데이터 외에 Header 에 오는 데이터를 사용하는 방법을 알아 봅니다.
 
 실제 데이터 대신 MockWebServer 를 대신 사용해서 Response 및 Header 데이터를 생성하고 가져오는 테스트를 합니다.
