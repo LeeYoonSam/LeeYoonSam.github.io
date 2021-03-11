@@ -8,6 +8,7 @@ Response 로 받는 body 데이터 외에 Header 에 오는 데이터를 사용�
 
 실제 데이터 대신 MockWebServer 를 대신 사용해서 Response 및 Header 데이터를 생성하고 가져오는 테스트를 합니다.
 
+<br>
 
 ### app/build.gradle
 {% highlight gradle %}
@@ -18,6 +19,7 @@ dependencies {
 
 - mockwebserver 디펜던시 추가
 
+<br>
 
 ### SampleResponse
 {% highlight kotlin %}
@@ -29,6 +31,8 @@ data class SampleResponse(
 
 - 간단한 Response 객체 생성
 
+<br>
+
 ### Api Interface
 {% highlight kotlin %}
 interface Api {
@@ -39,6 +43,8 @@ interface Api {
 
 - API 호출에 사용할 샘플 추가
 
+
+<br>
 
 ### 전체 코드
 {% highlight kotlin %}

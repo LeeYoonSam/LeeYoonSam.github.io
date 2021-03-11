@@ -12,6 +12,8 @@ data class User(
 )
 {% endhighlight %}
 
+<br>
+
 ### User 클래스의 빌더 클래스
 {% highlight kotlin %}
 class UserBuilder {
@@ -46,6 +48,8 @@ class UserBuilder {
 }
 {% endhighlight %}
 
+<br>
+
 ### 빌더를 사용하는 고차함수 전달받기
 {% highlight kotlin %}
 fun buildUser(buildBlock: UserBuilder.() -> Unit): User {
@@ -54,6 +58,8 @@ fun buildUser(buildBlock: UserBuilder.() -> Unit): User {
     return builder.build()
 }
 {% endhighlight %}
+
+<br>
 
 ### 빌더 패턴 사용하기
 {% highlight kotlin %}
@@ -74,6 +80,7 @@ fun main() {
     println(user3)
 }
 
+<br>
 
 >>> User(id=1, name=albert1)
 >>> User(id=2, name=albert2)
