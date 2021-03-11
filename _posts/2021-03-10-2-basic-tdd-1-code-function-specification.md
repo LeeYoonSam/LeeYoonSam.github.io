@@ -31,6 +31,11 @@ categories: tdd
     - 입력값이 없으면 분산을 계산할 수 없다.
     - 데이터는 2개 이상되어야 계산할 수 있다.
 
+## 느낀점
+- 도메인 지식을 잘 이해 하는것이 가장 중요하고 이해가 정확하지 않다면 질의응답을 통해서 정확하게 이해를 할때까지 커뮤니케이션을 해야한다.
+
+[<< TDD 입문하기](./../10/1-initiate-tdd) [테스트 기법 >>](./../11/1-basic-tdd-2-test-technic)
+
 ## 참고
 [Code 1-1](https://github.com/LeeYoonSam/InitiateTDDHandsOn/tree/main/Variance)
 

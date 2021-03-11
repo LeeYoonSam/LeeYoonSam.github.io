@@ -30,7 +30,11 @@ categories: tdd
 - 이 작은 기술 문제들 중 많은 일부는 과거 어디에선가 여러 번 반복되고 해결된 적이 있다.
 
 ## 테스트 주도 개발 기초
-[1. 코드 기능 명세](./basic-tdd-1-code-function-specification)
+[1. 코드 기능 명세](./2-basic-tdd-1-code-function-specification)
+
+[2. 테스트 기법](./../11/1-basic-tdd-2-test-technic)
+
+[3. 코드 분해](./../11/2-basic-tdd-3-decomposition-code)
 
 ## 참고
 [패스트 캠퍼스 - The RED: 이규원의 현실 세상의 TDD: 안정감을 주는 코드 작성 방법.](https://www.fastcampus.co.kr/dev_red_ygw)
