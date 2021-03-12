@@ -116,6 +116,8 @@ Parameterized Test 를 지원하다면 단순하면서 비슷한 테스트에 �
 <br>
 
 ## 참고
+[Code 1-2: UnitTest](https://github.com/LeeYoonSam/InitiateTDDHandsOn/tree/main/TEXT-REFINER)
+
 [패스트 캠퍼스 - The RED: 이규원의 현실 세상의 TDD: 안정감을 주는 코드 작성 방법.](https://www.fastcampus.co.kr/dev_red_ygw)
 
 [TDD HandsOn](https://github.com/gyuwon/TDDHandsOn)
