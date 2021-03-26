@@ -41,6 +41,10 @@ npm install --save-dev faker
 
 <br>
 
+[<< 단위 테스트](./../11/3-basic-tdd-4-unit-test) [정리된 코드 >>](./../17/basic-tdd-6-organized-code) 
+
+<br>
+
 ## 참고
 [Code 1-3: 테스트 우선 개발](https://github.com/LeeYoonSam/InitiateTDDHandsOn/commit/80c47fb2cb0e3a13cd514329e8e7bd9fed39ddb5)
 
