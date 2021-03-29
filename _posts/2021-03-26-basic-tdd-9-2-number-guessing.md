@@ -43,7 +43,7 @@ void some_test(int answer)
 
 <br>
 
-[<< 정리된 코드](./../17/basic-tdd-6-organized-code)
+[<< 정리된 코드](./../17/basic-tdd-6-organized-code) [장난감 3 >>](./../29/basic-tdd-9-3-number-guessing) 
 
 <br>
 
