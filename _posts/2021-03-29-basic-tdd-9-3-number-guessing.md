@@ -36,7 +36,7 @@ categories: tdd
 <br>
 <br>
 
-[<< 장난감 2](./../26/basic-tdd-9-2-number-guessing)
+[<< 장난감 2](./../26/basic-tdd-9-2-number-guessing)  [인터페이스와 구현 >>](./../../04/06/tdd-deep-dive-1-interface)
 
 <br>
 
